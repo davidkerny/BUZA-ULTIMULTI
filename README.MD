@@ -13,7 +13,7 @@ When **printing the plastic parts**, the 0.15mm layer height is advised. PETG ma
 ## Other hardware required apart from the MMU2S components:  
 
 - MMU2S **data cable** can be modified to provide a more refined 5V voltage level to the electronics board's logic. A stable 5V supply is crucial. Optionally, you can use the power addon board for improved performance.  
-- **2.5mm ID clear PTFE tubes** should be used.  
+- **2.5mm ID clear PTFE tubes** should be used.  5x650mm, 5x19mm, 1x360mm
 - the rear of the unit is designed to be used with 5 **E3D collets** to retain the PTFE tubes in.  
 - the selector uses the MK3S fs-lever style **magnet and a magnetic ball  **
 - the idler is meant to be attached to the motor shaft using either a flat-faced **metal coupler** or a printed adapter with a modified GT2-16 pulley. Remember, idler concentricity is crucial.  
