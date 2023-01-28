@@ -41,4 +41,4 @@ When **printing the plastic parts**, the 0.15mm layer height is advised. PETG ma
 - To be used only with the bottom-mounted electronics and the corresponding legs.
 
 ### Experimental
-- *OSB* version: freely standing MMU integrated onto the buffer
+- **OSB** version: freely standing MMU integrated onto the buffer
