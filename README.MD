@@ -39,3 +39,6 @@ When **printing the plastic parts**, the 0.15mm layer height is advised. PETG ma
 - Single lock; on the left side only. Even more filament path visibility. Hex key storage was moved down into the Pulley body.  
 - Still compatible with, but shouldn't be used anymore with the fully-printed idler due to a commonly occuring idler runout / wobble -> filament loading issues.  
 - To be used only with the bottom-mounted electronics and the corresponding legs.
+
+### Experimental
+- **OSB** version: freely standing MMU integrated onto the buffer
