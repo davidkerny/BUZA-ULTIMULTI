@@ -2,7 +2,7 @@
 
 ![OS](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/OS_1.png)
 ![OS](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/OS_2.png)
-![OS](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/OS_5.png)
+![OS](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/OS_4.png)
 
 **Ultimulti** project is a DIY multi-material solution developped in parallel with a similar project, the Kamil4000, both with the ease of use and reliability being the two key improvement objectives.  
   
@@ -28,7 +28,8 @@ When **printing the plastic parts**, the 0.15mm layer height is advised. PETG ma
 ## Important development milestones for reverse-compatibility  
 
 ![OS](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/OS_3.png)
-![OS](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/OS_4.png)
+![OS](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/OS_5.png)
+![OS](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/OS_6.png)
 ### Idler body/ pulley body OS(one-sided) C-series 
 - Single lock; on the left side only. Even more filament path visibility. Hex key storage was moved down into the Pulley body.  
 - Still compatible with, but shouldn't be used anymore with the fully-printed idler due to a commonly occuring idler runout / wobble -> filament loading issues.  
@@ -37,6 +38,7 @@ When **printing the plastic parts**, the 0.15mm layer height is advised. PETG ma
   
 ![CLASSIC](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/CLASSIC_1.png)
 ![CLASSIC](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/CLASSIC_2.png)
+![CLASSIC](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/CLASSIC_3.png)
  ###  Idler body /pulley body Bxx; labeled as Classic - doublelock versions.
 - The last version with locks on both sides; 
 -  compatible also with closed electronics cover which goes on top. 
