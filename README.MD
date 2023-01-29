@@ -1,6 +1,6 @@
 # Ultimulti
 
-![OS](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/OS_3.png)
+![OS](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/OS_1.png)
 ![OS](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/OS_2.png)
 ![OS](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/OS_5.png)
 
@@ -27,7 +27,7 @@ When **printing the plastic parts**, the 0.15mm layer height is advised. PETG ma
   
 ## Important development milestones for reverse-compatibility  
 
-![OS](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/OS_1.png)
+![OS](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/OS_3.png)
 ![OS](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/OS_4.png)
 ### Idler body/ pulley body OS(one-sided) C-series 
 - Single lock; on the left side only. Even more filament path visibility. Hex key storage was moved down into the Pulley body.  
