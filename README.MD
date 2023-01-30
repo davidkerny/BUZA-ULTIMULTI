@@ -61,7 +61,7 @@ When **printing the plastic parts**, the 0.15mm layer height is advised. PETG ma
 - The last idler body compatible with MMU2S pulley body M1/R1. 
 - Incompatible with Kamil's Power Addon board.
 - to be used with open-back electronics cover - as seen in the picture above. 
-- Slot for the hex key in the back for easier removal of the connectors for the old MMU2S power/data cables.  
+- a notch below the connectors for easier MMU2S power/data cable removal using a hex key.  
 - in case it is used with the old fully-printed idler, might require different locks as the printed idlers usually need to compensate the idler eccentricity with idler tension setting.  
   
 
