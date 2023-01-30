@@ -14,7 +14,7 @@ Ultimulti should ideally be used as a **full set of plastic parts** of the most 
   
 When **printing the plastic parts**, the 0.15mm layer height is advised. PETG material is tested to work reliably. As with the MMU2S, the plastic parts are very sensitive to print defects; especially the first layer adhesion and part warping /lifting up from the heatbed. Verify the filament used is dry, the first layer adhesion is sufficient, the part cooling percentage high enough to maintain the dimensional accuracy and the nozzle temperature high enough to ensure the layer-to-layer bonding.  
 
-## Other hardware required apart from the MMU2S components:  
+## Other hardware required apart from the MMU2S / Kamil components:  
 
 - MMU2S **data cable** can be modified to provide a more refined 5V voltage level to the electronics board's logic. A stable 5V supply is crucial. Optionally, you can use the power addon board for improved performance.  
 - **2.5mm ID clear PTFE tubes** should be used.  5x650mm, 5x19mm, 1x360mm
@@ -24,7 +24,7 @@ When **printing the plastic parts**, the 0.15mm layer height is advised. PETG ma
 - **M3 washer** for the Chimney calibration screw.  
 - then just sum **bolts n nuts**. The majority can be harvested from MMU2S. Extra M3nS square nuts are required.  
 - optionally, 5x8mm magnets for motor visualizers  
-  
+- Top-mounted electronics cover is held in by two M3x10 bolts instead of M3x18!
   
   
   
