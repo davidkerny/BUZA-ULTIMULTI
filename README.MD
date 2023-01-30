@@ -58,4 +58,4 @@ When **printing the plastic parts**, the 0.15mm layer height is advised. PETG ma
 ### Experimental
 - **OSB** version: freely standing MMU integrated onto the buffer. Yet untested.
 - 
-![OSB](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/AAAA_OSB_SELFSTANDING.png)
+![OSB](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/OSB_SELFSTANDING.png)
