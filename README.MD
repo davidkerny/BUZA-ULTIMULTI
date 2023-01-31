@@ -37,7 +37,7 @@ When **printing the plastic parts**, the 0.15mm layer height is advised. PETG ma
 ![OS](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/OS_6.png)
 
 - Single lock; on the left side only. Even more filament path visibility. Hex key storage was moved down into the Pulley body.  
-- Still compatible with, but shouldn't be used anymore with the fully-printed idler due to a commonly occuring idler runout / wobble -> filament loading issues. Idler with metal coupler or GT2-16 pulley should be used.
+- Still compatible with, but shouldn't be used anymore with the fully-printed idler due to a commonly occuring idler runout / wobble -> filament loading issues. Idler with metal shaft coupler or GT2-16 pulley should be used instead.
 - Hex key storage on the left side of the Pulley body (2.5mm, 2mm and 1.5mm ones)
 - To be used **only** with the bottom-mounted electronics and the corresponding legs that retain the control board.
 
@@ -60,6 +60,7 @@ When **printing the plastic parts**, the 0.15mm layer height is advised. PETG ma
 ![B20](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/B20_2.png)
 
 - The last idler body compatible with MMU2S pulley body M1/R1. 
+- printed locks on both sides instead of the M3x30 idler tension bolts directly attached to idler body. Some versions of the locks have more clearance to account for fully-printed idler's wobble.
 - Incompatible with Kamil's Power Addon board. Old MMU2S data & power cables should be used. There is a zip-tie attachment point for the cables.
 - a notch below the connectors for easier MMU2S power/data cable removal using a hex key.  
 - to be used mainly with the open-back electronics cover - as seen in the picture above - for easier cable management.
