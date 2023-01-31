@@ -54,7 +54,7 @@ When **printing the plastic parts**, the 0.15mm layer height is advised. PETG ma
 
 
 
-  ### Idler body version up to B20 (obsolete)
+  ### Idler body version up to B19 (obsolete)
 
 ![B20](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/B20_1.png)
 ![B20](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/B20_2.png)
