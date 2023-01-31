@@ -30,7 +30,7 @@ When **printing the plastic parts**, the 0.15mm layer height is advised. PETG ma
   
 ## Important development milestones for reverse-compatibility  
 
-### Idler body/ pulley body OS(one-sided) C-series 
+  ### Idler body/ pulley body OS(one-sided) C-series 
 
 ![OS](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/OS_3.png)
 ![OS](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/OS_5.png)
@@ -40,7 +40,7 @@ When **printing the plastic parts**, the 0.15mm layer height is advised. PETG ma
 - Still compatible with, but shouldn't be used anymore with the fully-printed idler due to a commonly occuring idler runout / wobble -> filament loading issues.  
 - To be used only with the bottom-mounted electronics and the corresponding legs.
 
-   ###  Idler body /pulley body Bxx; labeled as Classic - doublelock versions.
+  ###  Idler body /pulley body Bxx; labeled as Classic - doublelock versions.
 
 ![CLASSIC](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/CLASSIC_1.png)
 ![CLASSIC](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/CLASSIC_2.png)
@@ -53,7 +53,7 @@ When **printing the plastic parts**, the 0.15mm layer height is advised. PETG ma
 
 
 
-### Idler body version up to B20 (obsolete)
+  ### Idler body version up to B20 (obsolete)
 
 ![B20](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/B20_1.png)
 ![B20](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/B20_2.png)
@@ -65,7 +65,7 @@ When **printing the plastic parts**, the 0.15mm layer height is advised. PETG ma
 - in case it is used with the old fully-printed idler, might require different locks as the printed idlers usually need to compensate the idler eccentricity with idler tension setting.  
   
 
-### Experimental
+  ### Experimental
 
 ![OSB](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/OSB_SELFSTANDING.png)
 
