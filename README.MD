@@ -37,17 +37,18 @@ When **printing the plastic parts**, the 0.15mm layer height is advised. PETG ma
 ![OS](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/OS_6.png)
 
 - Single lock; on the left side only. Even more filament path visibility. Hex key storage was moved down into the Pulley body.  
-- Still compatible with, but shouldn't be used anymore with the fully-printed idler due to a commonly occuring idler runout / wobble -> filament loading issues.  
-- To be used only with the bottom-mounted electronics and the corresponding legs.
+- Still compatible with, but shouldn't be used anymore with the fully-printed idler due to a commonly occuring idler runout / wobble -> filament loading issues. Idler with metal coupler or GT2-16 pulley should be used.
+- Hex key storage on the left side of the Pulley body (2.5mm, 2mm and 1.5mm ones)
+- To be used ***only*** with the bottom-mounted electronics and the corresponding legs that retain the control board.
 
-  ###  Idler body /pulley body Bxx; labeled as Classic - doublelock versions.
+  ###  Idler body /pulley body Bxx; labeled as Classic - doublelock version.
 
 ![CLASSIC](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/CLASSIC_1.png)
 ![CLASSIC](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/CLASSIC_2.png)
 ![CLASSIC](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/CLASSIC_3.png)
 
-- The last version to be used with locks on both sides; but works even with just the left one in place.
-- compatible also with open-back ad well as closed-back electronics cover on top. (as in the picture above) 
+- The last version to be used with locks on both sides; works even with just the left one in place.
+- compatible with open-back as well as closed-back electronics cover on top. (as in the picture above) 
 - Compatible with Power addon board that should be held in by the Addon retainr part. 
 - Pulley body compatible with Kamil4000. There is a hex-key storage on the right side of the Idler body.  
 
