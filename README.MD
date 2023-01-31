@@ -30,45 +30,47 @@ When **printing the plastic parts**, the 0.15mm layer height is advised. PETG ma
   
 ## Important development milestones for reverse-compatibility  
 
-### Idler body/ pulley body OS(one-sided) C-series 
+  ### Idler body/ pulley body OS(one-sided) C-series 
 
 ![OS](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/OS_3.png)
 ![OS](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/OS_5.png)
 ![OS](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/OS_6.png)
 
 - Single lock; on the left side only. Even more filament path visibility. Hex key storage was moved down into the Pulley body.  
-- Still compatible with, but shouldn't be used anymore with the fully-printed idler due to a commonly occuring idler runout / wobble -> filament loading issues.  
-- To be used only with the bottom-mounted electronics and the corresponding legs.
+- Still compatible with, but shouldn't be used anymore with the fully-printed idler due to a commonly occuring idler runout / wobble -> filament loading issues. Idler with metal shaft coupler or GT2-16 pulley should be used instead.
+- Hex key storage on the left side of the Pulley body (2.5mm, 2mm and 1.5mm ones)
+- To be used **only** with the bottom-mounted electronics and the corresponding legs that retain the control board.
 
-   ###  Idler body /pulley body Bxx; labeled as Classic - doublelock versions.
+  ###  Idler body /pulley body Bxx; labeled as Classic - doublelock version.
 
 ![CLASSIC](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/CLASSIC_1.png)
 ![CLASSIC](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/CLASSIC_2.png)
 ![CLASSIC](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/CLASSIC_3.png)
 
-- The last version to be used with locks on both sides; but works even with just the left one in place.
-- compatible also with open-back ad well as closed-back electronics cover on top. (as in the picture above) 
+- The last version to be used with locks on both sides; works even with just the left one in place.
+- compatible with open-back as well as closed-back electronics cover on top. (as in the picture above) 
 - Compatible with Power addon board that should be held in by the Addon retainr part. 
 - Pulley body compatible with Kamil4000. There is a hex-key storage on the right side of the Idler body.  
 
 
 
-### Idler body version up to B20 (obsolete)
+  ### Idler body version up to B20 (obsolete)
 
 ![B20](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/B20_1.png)
 ![B20](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/B20_2.png)
 
 - The last idler body compatible with MMU2S pulley body M1/R1. 
-- Incompatible with Kamil's Power Addon board.
-- to be used with open-back electronics cover - as seen in the picture above. 
+- printed locks on both sides instead of the M3x30 idler tension bolts directly attached to idler body. Some versions of the locks have more clearance to account for fully-printed idler's wobble.
+- Incompatible with Kamil's Power Addon board. Old MMU2S data & power cables should be used. There is a zip-tie attachment point for the cables.
 - a notch below the connectors for easier MMU2S power/data cable removal using a hex key.  
+- to be used mainly with the open-back electronics cover - as seen in the picture above - for easier cable management.
 - in case it is used with the old fully-printed idler, might require different locks as the printed idlers usually need to compensate the idler eccentricity with idler tension setting.  
   
 
-### Experimental
+  ### Experimental
 
 ![OSB](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/OSB_SELFSTANDING.png)
 
-- **OSB** version / D- series: freely standing MMU integrated onto the buffer. Yet untested.
+- **OSB** version / D- series: freely standing MMU integrated onto the buffer.
 
 
