@@ -48,7 +48,7 @@ When **printing the plastic parts**, the 0.15mm layer height is advised. PETG ma
 ![CLASSIC](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/CLASSIC_3.png)
 
 - The last version to be used with locks on both sides; works even with just the left one in place.
-- compatible with open-back as well as closed-back electronics cover on top. (as in the picture above) 
+- Compatible with open-back as well as closed-back electronics cover on top (as in the picture above) or with the bottom mounted electronics.
 - Compatible with Power addon board that should be held in by the Addon retainr part. 
 - Pulley body compatible with Kamil4000. There is a hex-key storage on the right side of the Idler body.  
 
