@@ -4,7 +4,7 @@
 ![OS](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/OS_2.png)
 ![OS](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/OS_4.png)
 
-**Ultimulti** project is a DIY multi-material solution developped in parallel with a similar project, the Kamil4000, both with the ease of use and reliability being the two key improvement objectives.  
+**Ultimulti** project is a DIY multi-material solution developped in parallel with a similar project, the Kamil4000, both with the ease of use and reliability being the two key improvement objectives, while still maintaining a reasonable amount of reverse-compatibility with MMU2S and mutual compatibility with Kamil.
   
 It is compatible with Prusa MMU2S so that the Prusa MMU2S unit can be upgraded to Ultimulti with just an addition of a few hardware components and printing new plastic parts.  
   
@@ -54,8 +54,9 @@ When **printing the plastic parts**, the 0.15mm layer height is advised. PETG ma
 - Pulley body compatible with Kamil4000. There is a hex-key storage on the right side of the Idler body.  
 
 
+- Selector >B13 not reverse compatible with blade holder <B16 as well as Kamil's blade-holder.
 
-  ### Idler body version up to B19 (obsolete)
+  ### Idler body version <B19 (obsolete)
 
 ![B20](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/B20_1.png)
 ![B20](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/B20_2.png)
