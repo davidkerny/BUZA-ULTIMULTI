@@ -54,7 +54,7 @@ When **printing the plastic parts**, the 0.15mm layer height is advised. PETG ma
 - Pulley body compatible with Kamil4000. There is a hex-key storage on the right side of the Idler body.  
 
 
-- Selector >B13 not reverse compatible with blade holder <B16 as well as Kamil's blade-holder.
+- Selector >B13 not reverse compatible with blade holder <B16 as well as Kamil's blade-holder. Selector >B14 should be only used with blade holder >B17.
 
   ### Idler body version <B19 (obsolete)
 
