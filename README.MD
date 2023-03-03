@@ -8,7 +8,7 @@
   
 It is compatible with Prusa MMU2S so that the Prusa MMU2S unit can be upgraded to Ultimulti with just an addition of a few hardware components and printing new plastic parts.  
   
-The most notable advantage of this system are the idler locks which enable you to open and close the idler-body with just a one-handed flick. No longer you have to undo bolts to reach the MMU's internals - and the re-set the idler tension on both sides.  
+The most notable advantage of this system is the idler lock which enables you to open and close the idler-body with just a one-handed flick. No longer you have to undo two bolts to reach the MMU's internals - and then re-set the idler tension on both sides. Single idler tension spring inside the lock means an easier tension adjustments and allows the MMU unit to home idler axis more reliably.
   
 Ultimulti should ideally be used as a **full set of plastic parts** of the most up-to-date revision. In case you opt to use just a part of the Ultimulti plastics on your MMU, please refer to the reverse-compatibility milestones and part descriptions below.  
   
@@ -38,9 +38,11 @@ When **printing the plastic parts**, the 0.15mm layer height is advised. PETG ma
 ![OS](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/OS_6.png)
 
 - Single lock; on the left side only. Even more filament path visibility. Hex key storage was moved down into the Pulley body.  
-- Still compatible with, but shouldn't be used anymore with the fully-printed idler due to a commonly occuring idler runout / wobble -> filament loading issues. Idler with metal shaft coupler or GT2-16 pulley should be used instead.
+- Still compatible with, but shouldn't be used anymore with the fully-printed idler due to a commonly occuring idler runout / wobble causing filament loading and idler homing issues. Idler with metal 5mm shaft coupler or GT2-16 pulley should be used instead.
 - Hex key storage on the left side of the Pulley body (2.5mm, 2mm and 1.5mm ones)
-- To be used **only** with the bottom-mounted electronics and the corresponding legs that retain the control board.
+- To be used **only** with the bottom-mounted electronics and the corresponding legs that retain the control board below the pulley body.
+
+- Idler bodies since C5_3 and C6 versions, utilize an idler tilt compensation for more equal idler tension across all the filament positions.
 
   ###  Idler body /pulley body Bxx; labeled as Classic - doublelock version.
 
