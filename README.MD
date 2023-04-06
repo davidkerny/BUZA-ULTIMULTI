@@ -35,7 +35,7 @@ https://www.printables.com/model/209869-mk3s-mmu2s-precise-calibration-chimney) 
   
   
   
-## Important development milestones for reverse-compatibility  
+## Important development milestones for reverse-compatibility
 
   ### Idler body/ pulley body OS(one-sided) C-series 
 
@@ -79,7 +79,7 @@ https://www.printables.com/model/209869-mk3s-mmu2s-precise-calibration-chimney) 
 - to be used mainly with the open-back electronics cover (up to B14) - as seen in the picture above - for easier cable management.
 - in case it is used with the old fully-printed idler, might require different locks as the printed idlers usually need to compensate the idler eccentricity with idler tension setting. Different older versions of the locks vary in dimensions.
 
-- Ele cover TOP_NOLOCK_B8 version with idler tension bolt retainers is compatible only with the MMU2S Idler body M1/R1 without the Idler locks. Electronic board torsion strain relief cutouts and TMC venting openings. Zip-tie attachment points for easier cable management. (the initial version)
+- Ele cover TOP_NOLOCK_B8 version with idler tension bolt retainers is compatible only with the MMU2S Idler body M1/R1 without the Idler locks. Electronic board torsion strain relief cutouts and TMC venting openings. Zip-tie attachment points for easier cable management.
 
 ![NOLOCK](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/NOLOCK.png)
 
