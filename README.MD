@@ -15,6 +15,9 @@ Ultimulti should ideally be used as a **full set of plastic parts** of the most 
   
 When **printing the plastic parts**, the 0.15mm layer height is advised. PETG material is tested to work reliably. As with the MMU2S, the plastic parts are very sensitive to print defects; especially the first layer adhesion and part warping /lifting up from the heatbed. Verify the filament used is dry, the first layer adhesion is sufficient, the part cooling percentage high enough to maintain the dimensional accuracy and the nozzle temperature high enough to ensure a proper layer-to-layer bonding as well as print surface adhesion.
 
+The MK3S+ [Precise Calibration Chimney](
+https://www.printables.com/model/209869-mk3s-mmu2s-precise-calibration-chimney) should be used on the MK3S+ extruder. Note, there were several versions of the MK3S+ MMU Extruder Idler parts. Use the latest one.
+
 ## Hardware required apart from the MMU2S parts:  
 
 - For upgrading from MMU2S, getting a MMU3 upgrade kit is higly advised as it will get you all the necessary new components.
