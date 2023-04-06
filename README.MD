@@ -9,7 +9,7 @@
 - **Prusa MMU2S to MMU3 Ultimulti upgrade**: with just an addition of a few hardware components and printing new plastic parts, you can build the Ultimulti. 
 - For **Ultimulti MMU3 build** from scratch; use the Prusa MMU3 hardware components and just print the new plastic parts to get Ultimulti.
   
-The most notable advantage of this system is the idler lock which enables you to open and close the idler-body with just a one-handed flick. No longer you have to undo two bolts to reach the MMU's internals - and then re-set the idler tension on both sides. Single idler tension spring inside the lock means an easy and precise tension calibration. It allows the MMU unit to home idler axis more reliably due to the single spring having a longer effective deflection range.
+The most notable advantage of this system is the idler lock which enables you to open and close the idler-body with just a one-handed flick. No longer you have to undo two bolts to reach the MMU's internals - and then re-set the idler tension on both sides. Single idler tension spring inside the lock also mean an easy and precise tension calibration. It allows the MMU unit to home idler axis more reliably due to the single spring having a longer effective deflection range too.
   
 Ultimulti should ideally be used as a **full set of plastic parts** of the most up-to-date revision. In case you opt to use just a part of the Ultimulti plastics on your MMU, please refer to the reverse-compatibility milestones and part descriptions below.  
   
