@@ -91,6 +91,6 @@ https://www.printables.com/model/209869-mk3s-mmu2s-precise-calibration-chimney) 
 
 ![OSB](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/OSB_SELFSTANDING.png)
 
-- **OSB** version / D-series: freely standing C-series UltiMulti MMU integrated onto the buffer.
+- **OSB** version / D-series: freely standing C-series UltiMulti MMU integrated onto the MMU3 Cassette buffer.
 
 
