@@ -81,6 +81,12 @@ https://www.printables.com/model/209869-mk3s-mmu2s-precise-calibration-chimney) 
 
 - Ele cover TOP_NOLOCK_B8 version with idler tension bolt retainers is compatible only with the MMU2S Idler body M1/R1 without the Idler locks. Electronic board torsion strain relief cutouts and TMC venting openings. Zip-tie attachment points for easier cable management. (the initial version)
 
+![NOLOCK](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/NOLOCK.png)
+
+
+
+
+
   ### Experimental
 
 ![OSB](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/OSB_SELFSTANDING.png)
