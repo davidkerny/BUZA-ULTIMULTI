@@ -83,7 +83,7 @@ https://www.printables.com/model/209869-mk3s-mmu2s-precise-calibration-chimney) 
 
 ![NOLOCK](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/NOLOCK.png)
 
-- IDLER_BODY_A1_MMU2S should allow the MMU3 PD-board addon to be used on the MMU2S. (experimental)
+- IDLER_BODY_A1_MMU2S should allow the MMU3 PD-board addon to be used on the stock MMU2S. (experimental)
 
 
   ### Experimental
