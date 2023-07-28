@@ -72,7 +72,7 @@ https://www.printables.com/model/209869-mk3s-mmu2s-precise-calibration-chimney) 
 ![B20](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/B20_1.png)
 ![B20](https://github.com/davidkerny/BUZA-ULTIMULTI/blob/main/OLD-OTHER/IMAGES/B20_2.png)
 
-- The last idler body compatible with MMU2S pulley body M1/R1. If you are too lazy or out of filament; using this version, you can update your MMU2S to idler locks without having to reprint the pulley body.
+- The last idler body compatible with MMU2S pulley body M1/R1. If you are too lazy to replace Pulley body on your MMU2S; using this version, you can upgrade your MMU2S to idler locks.
 - printed locks on both sides instead of the M3x30 idler tension bolts directly attached to idler body. Some older versions of the locks have more clearance to account for fully-printed idler's wobble.
 - Incompatible with MMU3 PD-board Addon and cable. Old MMU2S data & power cables should be used. There is a zip-tie attachment point for the cables.
 - a notch below the connectors for easier MMU2S power/data cable removal using a hex key. Insert the hex key from side to undo the safety latches on the connectors, while pulling the connectors out.
