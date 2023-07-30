@@ -18,22 +18,24 @@ When **printing the plastic parts**, the 0.15mm layer height is advised. PETG ma
 The MK3S+ [Precise Calibration Chimney](
 https://www.printables.com/model/209869-mk3s-mmu2s-precise-calibration-chimney) should be used on the MK3S+ extruder. Note, there were several versions of the MK3S+ MMU Extruder Idler parts. Use the latest one.
 
-## Hardware required apart from the MMU2S parts:  
+## Hardware required:  
 
-- For upgrading from MMU2S, getting a MMU3 upgrade kit is higly advised as it will get you all the necessary new components.
+To upgrade MMU2S to MMU3 Ultimulti, getting a Prusa MMU3 upgrade kit is higly advised as it will get you all the necessary new components.
+Apart from the MMU2S parts, you will need:
 
-- MMU2S **data cable** can be modified to provide a more refined 5V voltage level to the electronics board's logic. A stable 5V supply is crucial! Ideally, the MMU3 cable and PD-board addon should be used.
-- **2.5mm ID PTFE tubes** should be used. (as on MMU3)  5x650mm, 5x19mm, 1x360mm
-- 19mm and 360mm PTFE tubes can be clear color for better filament visibility, however the rest should be regular non-clear PTFE tubes (reduced friction)
-- the rear of the unit is designed to be used with 5 **E3D collets** to retain the PTFE tubes in. (as on MMU3)
-- the selector uses the MK3S fs-lever style **10x6x2 magnet and a 7mm magnetic ball** (as on MMU3)
-- the idler is meant to be attached to the motor shaft using either a flat-faced **metal coupler** (MMU3) or a printed adapter with a modified GT2-16 pulley. Remember, idler concentricity is crucial!
-- **M3 washer** for the Chimney calibration screw. (MMU3)
-- then just sum **bolts n nuts**. The majority can be harvested from MMU2S. Extra M3nS square nuts are required. (use MK3 spare bag)
+- MMU2S data cable can be modified to provide a more refined 5V voltage level to the electronics board's logic. A stable 5V supply is crucial! Ideally, the MMU3 cable and PD-board addon should be used.
+- 2.5mm ID PTFE tubes should be used. (as on MMU3) 5x650mm, 5x19mm, 1x360mm
+- 19mm and 360mm PTFE tubes can be clear color for better filament visibility, however the rest should be regular non-clear PTFE tubes (for reduced friction)
+- the rear of the unit is designed to be equipped with 5 E3D collets to retain the PTFE tubes in. (as on MMU3). Alternatively, you can use 5x M6 or M10 pneumatic fittings.
+- the selector uses the MK3S fs-lever style 10x6x2 magnet and a 7mm magnetic steel ball (as on MMU3). Note, the MK3S and MMU2S balls are not magnetic!!!
+- the idler is meant to be attached to the motor shaft using either a flat-faced metal coupler (MMU3) or a printed adapter with a modified GT2-16 pulley. Remember, - idler concentricity is crucial! Original Prusa coupler is of better quality than the chinese ones.
+- M3 washer for the Chimney calibration screw. (MMU3)
+- then just sum bolts n nuts. The majority can be harvested from MMU2S. Extra M3nS square nuts are required.
 - optionally, 5x8mm magnets for motor visualizers
-- If you plan to use the top-mounted electronics cover; is might be held in by two M3x10 bolts instead of M3x18!!
-  
-  
+
+The magnet, washer, blades and fasteners can be sourced from MK3S and MMU2S spare parts.
+
+
   
 ## Important development milestones for reverse-compatibility
 
