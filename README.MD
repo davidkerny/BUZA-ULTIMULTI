@@ -31,7 +31,7 @@ Apart from the MMU2S parts, you will need:
 - the idler is meant to be attached to the motor shaft using either a flat-faced metal coupler (MMU3) or a printed adapter with a modified GT2-16 pulley. Remember, - idler concentricity is crucial! Original Prusa coupler is of better quality than the chinese ones.
 - M3 washer for the Chimney calibration screw. (MMU3)
 - then just sum bolts n nuts. The majority can be harvested from MMU2S. Extra M3nS square nuts are required.
-- optionally, 5x8mm magnets for motor visualizers
+- optionally, 8x6 or 8x5mm magnets for motor visualizers
 
 The magnet, washer, blades and fasteners can be sourced from MK3S and MMU2S spare parts.
 
