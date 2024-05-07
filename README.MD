@@ -51,10 +51,12 @@ The magnet, washer, blades and fasteners can be sourced from MK3S and MMU2S spar
 - To be used **only** with the bottom-mounted electronics and the corresponding legs that retain the control board below the pulley body.
 
 - Front PTFE holder since B15: grooves between the filaments for easier waste management after cutting function was initiated.
+- Selector B19 EXPERIMENTAL has a larger internal filament entry after FINDA, similarly to the pre-B14 selectors. This should aid loading curled filaments. Might have impact on Spooljoin and operation with stringy filaments. Must be tested thoroughly.
 - Selector since B17: openings to superglue the bronze bushings in, in case these do not hold in properly. (Usually, they don't only if the parts were printed incorrectly.)
-- Selector since B14: different filament entry after FINDA and large opening for clearing out strings from under the FINDA ball. 
-- Idler body since C5_3 and C6: Idler tilt compensation for more equal idler tension across all the filament positions. (improvement for extremely stringy materials)
+- Selector since B14: different filament entry after FINDA and large opening for clearing out strings from under the FINDA ball.
+- Selector since B14 no longer compatible with blade holder <B16 as well as the MMU3 blade-holder. Selector since B14 necessitates the use of blade holder B17 or newer.
 
+- Idler body since C5_3 and C6: Idler tilt compensation for more equal idler tension across all the filament positions. (improvement for extremely stringy materials)
 
   ###  Idler body /pulley body Bxx; labeled as Classic - doublelock version.
 
@@ -66,8 +68,6 @@ The magnet, washer, blades and fasteners can be sourced from MK3S and MMU2S spar
 - Compatible with all electronics mounting options: open-back or closed-back cover on top (as in the picture above) or the bottom mounted. (C version)
 - Idler body since B20 Compatible with PD-board addon (MMU3) that should be held in by the Addon retainr part. 
 - Idler body since B20 incompatible with MMU2S. MMU3 compatible. There is a hex-key storage on the right side of the Idler body.  
-
-- Selector from B14 no longer compatible with blade holder <B16 as well as the MMU3 blade-holder. Selector since B14 necessitates the use of blade holder B17 or newer.
 
   ### Idler body version <B19 (obsolete)
 
