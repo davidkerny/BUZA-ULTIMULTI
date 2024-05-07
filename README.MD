@@ -67,7 +67,7 @@ The magnet, washer, blades and fasteners can be sourced from MK3S and MMU2S spar
 - Idler body since B20 Compatible with PD-board addon (MMU3) that should be held in by the Addon retainr part. 
 - Idler body since B20 incompatible with MMU2S. MMU3 compatible. There is a hex-key storage on the right side of the Idler body.  
 
-- Selector >B13 not reverse compatible with blade holder <B16 as well as MMU3 blade-holder. Selector >B14 should be only used with blade holder >B17.
+- Selector from B14 no longer compatible with blade holder <B16 as well as the MMU3 blade-holder. Selector since B14 necessitates the use of blade holder B17 or newer.
 
   ### Idler body version <B19 (obsolete)
 
