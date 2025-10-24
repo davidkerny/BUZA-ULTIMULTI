@@ -56,7 +56,7 @@ The magnet, washer, blades and fasteners can be sourced from MK3S and MMU2S spar
 - Selector since B14: different filament entry after FINDA and large opening for clearing out strings from under the FINDA ball.
 - Selector since B14 no longer compatible with blade holder <B16 as well as the MMU3 blade-holder. Selector since B14 necessitates the use of blade holder B17 or newer.
 
-- Idler body since C5_3 and C6: Idler tilt compensation for more equal idler tension across all the filament positions. (improvement for extremely stringy materials)
+- Idler body since C5_3 and C6: Idler tilted down on the right side to equalize the idler tension across all the filament positions. (backlash and idler-body flex compensation) Version C6 is tilted by 0.3mm. Version C7 is tilted by 0.5. Experimental versions of the C7 idler tilted by 0.8 and 1.4mm. Might require further testing.
 
   ###  Idler body /pulley body Bxx; labeled as Classic - doublelock version.
 
